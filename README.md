@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; > 
+
 
 <img src="./logo2.png" alt="img unavailable" style = " align: center" width = 100% > </img>
 <br>
@@ -10,4 +10,3 @@
 
 
 
-</div>
