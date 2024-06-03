@@ -1,4 +1,4 @@
-<img height="250px" width="150px" align="right" src="./Itachi-Uchiha-PNG-File.png" >
+<img height="350px" width="250px" align="right" src="./Itachi-Uchiha-PNG-File.png" >
 <br>
 <br>
 <br>
