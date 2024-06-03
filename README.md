@@ -4,7 +4,7 @@
 <br>
 
  <img align="center" src="./HEY.png">
- <img src="./goldline.png" > 
+ <img width="350px" height="100px" src="./goldline.png" > 
 <br>
 
 
