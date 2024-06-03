@@ -4,10 +4,10 @@
 
 <img width="360px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajRoy43&layout=compact&hide_border=true&bg_color=0d1117" alt="NirajRoy">
 
-<br/>
-<br/>
+<br />
+<br />
 
-<--![my GitHub stats](https://github-readme-stats.vercel.app/api?username=NirajRoy43&theme=highcontrast&show_icons=true)-->
+<!--![my GitHub stats](https://github-readme-stats.vercel.app/api?username=NirajRoy43&theme=highcontrast&show_icons=true)-->
 
 
 
