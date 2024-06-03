@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=NirajRoy43&theme=highcontrast&show_icons=true)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=NirajRoy43&theme=highcontrast&show_icons=true
 
 
 
