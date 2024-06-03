@@ -3,7 +3,7 @@
 <br>
 <br>
 
- <img height="200" align="center" src="./Naruto-.png"> <img align="center" src="./HEY.png">
+ <img align="center" src="./HEY.png">
 <hr>
 <br>
 <br>
