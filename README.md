@@ -1,7 +1,7 @@
 # Hey , i'm Niraj !!
 
 
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajRoy43&layout=compact&hide_border=true&bg_color=0d1117" alt="NirajRoy">
+<img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajRoy43&layout=compact&hide_border=true&bg_color=0d1117" alt="NirajRoy">
 <br/>
 
 
