@@ -1,4 +1,4 @@
-
+<!--
 <img height="550px" width="400px" align="right" src="./Itachi-Uchiha-PNG-File.png" > 
 <br>
 <br>
@@ -10,7 +10,7 @@
 
 
 
-<!-- img src="./71f1a93b6932fffc6a4e8bd43dab7f39.gif" width="100%" height="auto" align="center"-->
+<img src="./71f1a93b6932fffc6a4e8bd43dab7f39.gif" width="100%" height="auto" align="center"
 
 
 
@@ -19,6 +19,7 @@
 
 <br />
 <br />
+
 
 <!--![my GitHub stats](https://github-readme-stats.vercel.app/api?username=NirajRoy43&theme=highcontrast&show_icons=true)-->
 
