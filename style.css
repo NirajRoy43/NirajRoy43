@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.container {
+  display: flex;
+  gap: 30px;
+}
+
+.icon {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  background-size: cover;
+  border-radius: 50%;
+  animation: wave 4s ease-in-out infinite;
+  transition: transform 0.3s ease, background-image 0.3s ease;
+}
+
+.icon::before {
+  content: "";
+  position: absolute;
+  top: -400px;
+  left: 50%;
+  width: 2px;
+  height: 400px;
+  background-color: #fff;
+  transform: translateX(-50%);
+  z-index: -1;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+}
+
+.instagram {
+  background-image: url("https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.2025074602.1718813500");
+  animation-delay: 1s;
+}
+
+.x {
+  background-image: url("https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1720022408~exp=1720023008~hmac=4fe274d9aaff4ab640fb81d9b4b3ff00cf8c80c719f4ff3c8ef0454de9140c53");
+  animation-delay: 1.5s;
+}
+
+.codepen {
+  background-image: url("https://www.iconbolt.com/iconsets/phosphor-regular/codepen-logo.svg");
+  background-color: white;
+  animation-delay: 2s;
+}
+
+.linkedin {
+  background-image: url("https://cdn-icons-png.freepik.com/512/145/145807.png?ga=GA1.1.2025074602.1718813500");
+  animation-delay: 2.5s;
+}
+
+.github {
+  background-image: url("https://cdn-icons-png.freepik.com/512/11376/11376339.png?ga=GA1.1.2025074602.1718813500");
+  animation-delay: 3s;
+}
+
+@keyframes wave {
+  0%, 100% {
+    transform: translate(0);
+  }
+  25% {
+    transform: translateY(-20px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  75% {
+    transform: translateY(-20px);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .icon::before {
+    top: -500px;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .container {
+    align-items: center;
+    gap: 10px;
+  }
+  .icon {
+    height: 60px;
+    width: 60px;
+  }
+  .icon::before {
+    top: -500px;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .icon {
+    height: 50px;
+    width: 50px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .icon {
+    height: 40px;
+    width: 40px;
+  }
+}
