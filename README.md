@@ -67,20 +67,18 @@ me.say_hi()
 
 
 ### 📫 Get in Touch
-
-  <a href="https://linkedin.com/in/okayniraj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://t.me/NemesisRoy"><img src="https://img.icons8.com/bubbles/50/000000/telegram.png" alt="Telegram"/></a>
-  <a href="https://www.instagram.com/okay.niraj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
-### ♟️ Up for a strategic showdown?
-
-<p align="center">
-  <a href="https://lichess.org/@/okayniraj">
-    <img src="https://img.shields.io/badge/Challenge_Me_in_Chess-%232D3F4D.svg?&style=for-the-badge&logo=lichess&logoColor=white" />
+<p>
+  <a href="https://linkedin.com/in/okayniraj">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://t.me/NemesisRoy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/okay.niraj/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
   </a>
 </p>
-
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NirajRoy43&label=Profile%20views&color=0e75b6&style=flat" alt="NirajRoy43" />
 </p>
