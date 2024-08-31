@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Welcome to Niraj Roy's Coding Wonderland!
+  
 </h1>
 
 <p align="center">
@@ -53,21 +53,11 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=NirajRoy43&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
 </p>
 
-### 📊 This Week I Spent My Time On:
-
-<!--START_SECTION:waka-->
-```text
-Python      3 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.25 % 
-JavaScript  2 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.45 % 
-HTML        1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-CSS         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-```
-<!--END_SECTION:waka-->
 
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajRoy43&theme=monokai-metallian&hide_border=true" alt="NirajRoy43's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajRoy43&theme=dracula&hide_border=true" alt="NirajRoy43's streak"/>
 </p>
 
 ### 📈 GitHub Activity Graph
@@ -76,9 +66,6 @@ CSS         17 mins         █░░░░░░░░░░░░░░░░�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajRoy43&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 
-### 🎵 Now Playing
-
-[![Spotify](https://novatorem-git-main-nirajroy43.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
 ### 🐍 Contribution Graph
 
@@ -107,6 +94,3 @@ CSS         17 mins         █░░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
-  
-</div>
