@@ -68,14 +68,14 @@ me.say_hi()
 ![Snake Contribution Graph](https://raw.githubusercontent.com/NirajRoy43/NirajRoy43/0a0d119c12b826209425c178743f4cfce5303b10/dist/github-contribution-grid-snake.svg)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💌 Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/Okayniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okayniraj" height="30" width="40" /></a>
-<a href="https://instagram.com/okay.niraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okay.niraj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/okayniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Okayniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/Okayniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="xyz" height="30" width="40" /></a>
-   <a href="https://hashnode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Okayniraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okayniraj" height="30" width="40" /></a>
+<a href="https://instagram.com/okay.niraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okay.niraj" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/okayniraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Okayniraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/Okayniraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="xyz" height="30" width="40" /></a>
+   <a href="https://hashnode.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="xyz" height="30" width="40" /></a>
 <a
 </p>
 
