@@ -36,7 +36,7 @@ me = NirajRoy()
 me.say_hi()
 ```
 
-### 🌈 Tech Stack
+### 🥷 Tech Stack
 
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="50"><img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="50"><img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="50">
@@ -68,15 +68,15 @@ me.say_hi()
 
 ### 📫 Get in Touch
 
-  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/channel/your_youtube"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-  <a href="https://www.instagram.com/your_instagram/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/okayniraj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://t.me/NemesisRoy"><img src="https://img.icons8.com/bubbles/50/000000/telegram.png" alt="Telegram"/></a>
+  <a href="https://www.instagram.com/okay.niraj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 ### ♟️ Up for a strategic showdown?
 
 <p align="center">
-  <a href="https://lichess.org/@/YourLichessUsername">
+  <a href="https://lichess.org/@/okayniraj">
     <img src="https://img.shields.io/badge/Challenge_Me_in_Chess-%232D3F4D.svg?&style=for-the-badge&logo=lichess&logoColor=white" />
   </a>
 </p>
