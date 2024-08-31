@@ -69,7 +69,7 @@ me.say_hi()
 
 ### 🐍 Contribution Graph
 
-<img src="https://github.com/NirajRoy43/NirajRoy43/blob/output/saanp.svg" alt="snake" width="100%"/>
+![GitHub Snake](./dist/github-contribution-grid-snake.svg)
 
 ### 🎯 Challenge Me in Chess!
 
