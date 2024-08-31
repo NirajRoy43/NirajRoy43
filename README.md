@@ -1,4 +1,6 @@
-   <img src=./HEY.png align="center">  
+   <p align="center">
+   <img src=./HEY.png > 
+   </p>
 
 
 <p align="center">
@@ -67,7 +69,7 @@ me.say_hi()
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/Okayniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okayniraj" height="30" width="40" /></a>
 <a href="https://instagram.com/okay.niraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okay.niraj" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/okayniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xyz" height="30" width="40" /></a>
@@ -76,7 +78,14 @@ me.say_hi()
    <a href="https://hashnode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="xyz" height="30" width="40" /></a>
 <a
 </p>
-  
+
+  ### 🎯 Up for a strategic showdown?
+
+<p align="center">
+  <a href="https://lichess.org/@/okayniraj">
+    <img src="https://img.shields.io/badge/Challenge_Me_in_Chess-%232D3F4D.svg?&style=for-the-badge&logo=lichess&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NirajRoy43&label=Profile%20views&color=0e75b6&style=flat" alt="NirajRoy43" />
 </p>
