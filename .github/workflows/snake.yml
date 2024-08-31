@@ -16,10 +16,13 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Create dist directory
         run: mkdir -p dist
       
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
