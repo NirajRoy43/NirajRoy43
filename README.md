@@ -66,17 +66,13 @@ me.say_hi()
 ![Snake Contribution Graph](https://raw.githubusercontent.com/NirajRoy43/NirajRoy43/0a0d119c12b826209425c178743f4cfce5303b10/dist/github-contribution-grid-snake.svg)
 
 
-### 📫 Get in Touch
-<p>
-  <a href="https://linkedin.com/in/okayniraj">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://t.me/NemesisRoy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/okay.niraj/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/okayniraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okayniraj" height="30" width="40" /></a>
+<a href="https://instagram.com/okay.niraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okay.niraj" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="xyz" height="30" width="40" /></a>
 </p>
   
 <p align="center">
