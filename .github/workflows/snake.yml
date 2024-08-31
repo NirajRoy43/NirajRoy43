@@ -1,12 +1,10 @@
-name: Generate Snake Contribution Graph
+name: Generate Snake
 
 on:
   push:
-    branches: 
-      - main
+    branches: [ "main" ]
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
 
 jobs:
   build:
@@ -15,10 +13,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add dist/*.svg dist/*.gif
+          git commit -m "Add generated snake SVG"
+          git push
