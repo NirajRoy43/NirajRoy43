@@ -1,31 +1,33 @@
-name: Generate Snake
+name: generate animation
 
 on:
-  push:
-    branches: [ "main" ]
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
+  
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
-          git add dist/*.svg dist/*.gif
-          git commit -m "Add generated snake SVG"
-          git push
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
