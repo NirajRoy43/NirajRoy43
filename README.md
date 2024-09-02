@@ -12,30 +12,43 @@
 
 ## 🚀 Profile Highlights 
 
-```python
-class NirajRoy:
-    def __init__(self):
-        self.username = 'NirajRoy43'
-        self.name = 'Niraj Roy'
-        self.web = 'https://nir4j.vercel.app' 
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Bootstrap'],
-            'backend': ['Python', 'Flask', 'Node.js', 'Express'],
-            'database': ['MongoDB', 'MySQL'],
-            'devops': ['Docker', 'GitHub Actions', 'AWS'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'VSCode'],
-            'misc': ['Firebase', 'GNU/Linux']
-        }
-        self.architecture = ['SPA', 'Serverless']
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+#include <unordered_map>
 
-    def __str__(self):
-        return self.name
+class NirajRoy {
+private:
+    const std::string username = "NirajRoy43";
+    const std::string name = "Niraj Roy";
+    const std::string web = "https://nir4j.vercel.app";
+    const std::unordered_map<std::string, std::vector<std::string>> code = {
+        {"frontend", {"HTML", "CSS", "JavaScript", "React", "Bootstrap"}},
+        {"backend", {"Python", "Flask", "Node.js", "Express"}},
+        {"database", {"MongoDB", "MySQL"}},
+        {"devops", {"Docker", "GitHub Actions", "AWS"}},
+        {"tools", {"GIT", "GitHub", "Pandas", "VSCode"}},
+        {"misc", {"Firebase", "GNU/Linux"}}
+    };
+    const std::vector<std::string> architecture = {"SPA", "Serverless"};
 
-    def say_hi(self):
-        print('Arigato 🍂')
+public:
+    std::string toString() const {
+        return name;
+    }
 
-me = NirajRoy()
-me.say_hi()
+    void say_hi() const {
+        std::cout << "Arigato 🍂" << std::endl;
+    }
+};
+
+int main() {
+    NirajRoy me;
+    me.say_hi();
+    return 0;
+}
+
 ```
 
 ### 🥷 Tech Stack
