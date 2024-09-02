@@ -25,7 +25,7 @@ private:
     const std::string web = "https://nir4j.vercel.app";
     const std::unordered_map<std::string, std::vector<std::string>> code = {
         {"frontend", {"HTML", "CSS", "JavaScript", "React", "Bootstrap"}},
-        {"backend", {"Python", "Flask", "Node.js", "Express"}},
+        {"backend", {"Python", "Flask", "Node.js", "Express", "C++"}},
         {"database", {"MongoDB", "MySQL"}},
         {"devops", {"Docker", "GitHub Actions", "AWS"}},
         {"tools", {"GIT", "GitHub", "Pandas", "VSCode"}},
