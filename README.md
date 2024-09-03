@@ -78,7 +78,7 @@ int main() {
 
 
 
-![Snake Contribution Graph](https://raw.githubusercontent.com/NirajRoy43/NirajRoy43/22be8980c4b78bed10d7537b20e3bd35816646cd/dist/github-contribution-grid-snake.svg)
+![Snake Contribution Graph](dist/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">💌 Connect with me:</h3>
