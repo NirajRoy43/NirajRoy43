@@ -78,7 +78,7 @@ int main() {
 
 
 
-![Snake Contribution Graph](dist/github-contribution-grid-snake.svg)
+![Snake Contribution Graph](dist/github-contribution-grid-snake-dark.svg)
 
 
 <h3 align="left">💌 Connect with me:</h3>
