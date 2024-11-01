@@ -60,20 +60,20 @@ int main() {
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirajRoy43&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="150%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NemesisRoy&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="150%"/>
 </p>
 
 
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajRoy43&theme=dracula&hide_border=true" alt="NirajRoy43's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NemesisRoy&theme=dracula&hide_border=true" alt="NemesisRoy's streak"/>
 </p>
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajRoy43&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NemesisRoy&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 
 
